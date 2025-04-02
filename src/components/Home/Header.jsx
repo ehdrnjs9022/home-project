@@ -1,12 +1,11 @@
-import { StyledHeader } from "./Main.styles";
+import { StyledHeader } from "./Common.styles";
 const Header = () => {
   return (
     <>
-      <StyledHeader>
-        <div class="container">
-          <div></div>
-        </div>
-      </StyledHeader>
+         <StyledHeader>
+      <div>머리</div>
+
+        </StyledHeader>
     </>
   );
 };

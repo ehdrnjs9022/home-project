@@ -1,8 +1,8 @@
-import { StyledFooter } from "./Main.styles";
+import { StyledFooter } from "./Common.styles";
 const Footer = () => {
   return (
     <>
-      <StyledFooter>밑밑밑</StyledFooter>
+      <StyledFooter>@ 2025 @@@@@@@@</StyledFooter>
     </>
   );
 };
